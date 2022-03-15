@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+}
+
+.para{
+    width: 645px;
+    /* border: 1px solid blue; */
+    position: absolute;
+    top: 194px;
+    right: 70px;
+    font-size: 30px;
+}
+
+body, picture{
+    width: 100%;
+}
+
+.coverPicture{
+    height: 500px;
+    width: 600px;
+}
+
+.celebrity{
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 286px;
+}
+
+.castPicture img {
+    width: 259px;
+    height: 250px;
+    background-color: grey;
+}
